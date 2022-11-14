@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: cursive;
+}
+body{
+	background-color:antiquewhite;
+}
+h1{
+	font-size:30px;
+}
+a{
+	color: black;
+    text-decoration: none;
+}
+.panel{
+	display: flex;
+	direction: column;
+	background-color: #dfb379;
+}
+.panel_container{
+	flex:1;
+}
+.panel_grafico{
+	flex:1;
+}
